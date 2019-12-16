@@ -1,0 +1,6 @@
+.idea
+sliderReadmy.*
+node_modules
+package-lock.json
+gulpfile.js
+scss
