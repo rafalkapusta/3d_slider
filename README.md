@@ -10,4 +10,4 @@ https://rafalkapusta.github.io/3d_slider/
 
 Used only Vanilla JS and CSS. 
 
-![Slider demo](slider.gif)
+![Slider demo](Slider.gif)
